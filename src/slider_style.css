@@ -201,8 +201,13 @@
     }
 
 }
-
+@media  screen and (max-width: 1000px) {
+    .buttons_n_p{
+        width:90
+    }
+}
 @media  screen and (max-width: 500px) {
+
     .slider_photo_d{
         width:20vw;
         height: 200px;
