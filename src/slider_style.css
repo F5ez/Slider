@@ -77,7 +77,7 @@
 .buttons_n_p{
     position: absolute;
     display: flex;
-    width:70vw;
+    width:80vw;
     justify-content: space-between;
     align-content: center;
     overflow: hidden;
